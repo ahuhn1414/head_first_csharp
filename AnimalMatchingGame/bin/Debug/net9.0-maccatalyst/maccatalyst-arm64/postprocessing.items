@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="AnimalMatchingGame.app/Contents/MacOS/AnimalMatchingGame">
+      <IsAppExtension>false</IsAppExtension>
+      <BCSymbolMapName>AnimalMatchingGame.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>AnimalMatchingGame.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/ashleyhuhn/Desktop/source/head_first_csharp/AnimalMatchingGame/obj/Debug/net9.0-maccatalyst/maccatalyst-arm64/mtouch-symbols.list</SymbolFile>
+      <DSymName>AnimalMatchingGame.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/ashleyhuhn/Desktop/source/head_first_csharp/AnimalMatchingGame</SourceProjectPath>
+      <IsXPCService></IsXPCService>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
