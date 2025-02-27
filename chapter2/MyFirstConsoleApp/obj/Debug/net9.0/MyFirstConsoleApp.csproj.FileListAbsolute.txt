@@ -1,0 +1,15 @@
+/Users/ashleyhuhn/Desktop/source/head_first_csharp/chapter2/MyFirstConsoleApp/bin/Debug/net9.0/MyFirstConsoleApp
+/Users/ashleyhuhn/Desktop/source/head_first_csharp/chapter2/MyFirstConsoleApp/bin/Debug/net9.0/MyFirstConsoleApp.deps.json
+/Users/ashleyhuhn/Desktop/source/head_first_csharp/chapter2/MyFirstConsoleApp/bin/Debug/net9.0/MyFirstConsoleApp.runtimeconfig.json
+/Users/ashleyhuhn/Desktop/source/head_first_csharp/chapter2/MyFirstConsoleApp/bin/Debug/net9.0/MyFirstConsoleApp.dll
+/Users/ashleyhuhn/Desktop/source/head_first_csharp/chapter2/MyFirstConsoleApp/bin/Debug/net9.0/MyFirstConsoleApp.pdb
+/Users/ashleyhuhn/Desktop/source/head_first_csharp/chapter2/MyFirstConsoleApp/obj/Debug/net9.0/MyFirstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ashleyhuhn/Desktop/source/head_first_csharp/chapter2/MyFirstConsoleApp/obj/Debug/net9.0/MyFirstConsoleApp.AssemblyInfoInputs.cache
+/Users/ashleyhuhn/Desktop/source/head_first_csharp/chapter2/MyFirstConsoleApp/obj/Debug/net9.0/MyFirstConsoleApp.AssemblyInfo.cs
+/Users/ashleyhuhn/Desktop/source/head_first_csharp/chapter2/MyFirstConsoleApp/obj/Debug/net9.0/MyFirstConsoleApp.csproj.CoreCompileInputs.cache
+/Users/ashleyhuhn/Desktop/source/head_first_csharp/chapter2/MyFirstConsoleApp/obj/Debug/net9.0/MyFirstConsoleApp.sourcelink.json
+/Users/ashleyhuhn/Desktop/source/head_first_csharp/chapter2/MyFirstConsoleApp/obj/Debug/net9.0/MyFirstConsoleApp.dll
+/Users/ashleyhuhn/Desktop/source/head_first_csharp/chapter2/MyFirstConsoleApp/obj/Debug/net9.0/refint/MyFirstConsoleApp.dll
+/Users/ashleyhuhn/Desktop/source/head_first_csharp/chapter2/MyFirstConsoleApp/obj/Debug/net9.0/MyFirstConsoleApp.pdb
+/Users/ashleyhuhn/Desktop/source/head_first_csharp/chapter2/MyFirstConsoleApp/obj/Debug/net9.0/MyFirstConsoleApp.genruntimeconfig.cache
+/Users/ashleyhuhn/Desktop/source/head_first_csharp/chapter2/MyFirstConsoleApp/obj/Debug/net9.0/ref/MyFirstConsoleApp.dll

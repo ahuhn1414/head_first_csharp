@@ -1,0 +1,15 @@
+/Users/ashleyhuhn/Desktop/source/head_first_csharp/chapter2/Answers/obj/Debug/net9.0/Answers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ashleyhuhn/Desktop/source/head_first_csharp/chapter2/Answers/obj/Debug/net9.0/Answers.AssemblyInfoInputs.cache
+/Users/ashleyhuhn/Desktop/source/head_first_csharp/chapter2/Answers/obj/Debug/net9.0/Answers.AssemblyInfo.cs
+/Users/ashleyhuhn/Desktop/source/head_first_csharp/chapter2/Answers/obj/Debug/net9.0/Answers.csproj.CoreCompileInputs.cache
+/Users/ashleyhuhn/Desktop/source/head_first_csharp/chapter2/Answers/obj/Debug/net9.0/Answers.sourcelink.json
+/Users/ashleyhuhn/Desktop/source/head_first_csharp/chapter2/Answers/bin/Debug/net9.0/Answers
+/Users/ashleyhuhn/Desktop/source/head_first_csharp/chapter2/Answers/bin/Debug/net9.0/Answers.deps.json
+/Users/ashleyhuhn/Desktop/source/head_first_csharp/chapter2/Answers/bin/Debug/net9.0/Answers.runtimeconfig.json
+/Users/ashleyhuhn/Desktop/source/head_first_csharp/chapter2/Answers/bin/Debug/net9.0/Answers.dll
+/Users/ashleyhuhn/Desktop/source/head_first_csharp/chapter2/Answers/bin/Debug/net9.0/Answers.pdb
+/Users/ashleyhuhn/Desktop/source/head_first_csharp/chapter2/Answers/obj/Debug/net9.0/Answers.dll
+/Users/ashleyhuhn/Desktop/source/head_first_csharp/chapter2/Answers/obj/Debug/net9.0/refint/Answers.dll
+/Users/ashleyhuhn/Desktop/source/head_first_csharp/chapter2/Answers/obj/Debug/net9.0/Answers.pdb
+/Users/ashleyhuhn/Desktop/source/head_first_csharp/chapter2/Answers/obj/Debug/net9.0/Answers.genruntimeconfig.cache
+/Users/ashleyhuhn/Desktop/source/head_first_csharp/chapter2/Answers/obj/Debug/net9.0/ref/Answers.dll

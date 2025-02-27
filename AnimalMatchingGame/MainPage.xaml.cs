@@ -14,7 +14,7 @@ public partial class MainPage : ContentPage
 		PlayAgainButton.IsVisible = false;
 
 		List<string> animalEmoji = [
-		"🐇","🐇",
+		"🦒","🦒",
 		"🦔","🦔",
 		"🐻‍❄️","🐻‍❄️",
 		"🫎","🫎",
